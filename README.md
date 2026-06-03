@@ -412,7 +412,7 @@ From the data analysis (see `plots/5_insights.png`):
 
 ## 👤 Author
 
-**Risjit Dev O**
+**Rishit Dev O**
 Internship Task 1 — Cognifyz Technologies
 Date: May 23, 2026
 
